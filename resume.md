@@ -1,13 +1,12 @@
-Victor Elgersma
-======
+# Victor Elgersma
 
-#### Data enthusiast with a strong background in math, science and programming. 
-###### [ [victorelgersma.github.io](http://www.victorelgersma.github.io) ] . [ elgersmav@gmail.com ] . [ +447502338291 ]
+**Data enthusiast with a strong background in math, science and programming**
+***[ [victorelgersma.github.io](http://www.victorelgersma.github.io) ]. [ elgersmav@gmail.com ] . [ +447502338291 ] ***
 
 Education
 ---------
 
-## Bachelor of Arts in Physics, University of Oxford
+### Bachelor of Arts in Physics, University of Oxford
 
 _2022_
 
@@ -30,7 +29,7 @@ _September 2023 - March 2024_
 
 - Transitioned to a career as a Software Engineer on THG’s Accelerator programme, which is designed for non-computer science graduates to transition into tech.
 - Topics covered: Object-oriented programming in Python and Java, Unix (bash and zsh), Spring framework, Unit Testing, Integration testing, build tools (Maven and Gradle), relational and NoSQL databases, SQL, web development (JavaScript, React), RESTful APIs, networking (packet sniffing) and containerization (docker, podman, colima, and kubernetes), and more.
-- Received feedback through weekly code reviews from senior staff.
+- Received feedback through weekly code reviews from senior engineers.
 
 ### Media Production Assistant, Institute of Art and Ideas
 

@@ -4,20 +4,24 @@
 
 1. Edit resume.md to add / change content
 
-generate an HTML doc with
+generate html with:
 
+```zsh
+./generate_html.sh
 ```
-pandoc -o resume.html resume.md
-```
 
-2. Generate resume.html with `pandoc`
-3. Add script tag to resume.html to include resume-css-stylesheet.css
-4. Print to PDF! with `wkhtmltopdf`
-
+- use browser's print to PDF to generate a pdf
 
 ## To do
 
-- [ ] make it so that it automatically goes into the body tag of an html file which is connected to the css file
+- [ ] create a file watcher that watches for changes in the resume.md file and regenerates the html file
+- [ ] currently the pdf
+- [ ] modify generator file to not use a separate stylesheet file
+
+## Notes
+
+- If I try to use software to convert to PDF it doesn't link the stylesheet correctly. Quick hack is to copy the stylesheet into the html file and then use wkhtmltopdf to generate the pdf.
+
 ## Links
 
-[Full work flow details](http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html) are contained in a short blog post.
+[Original post detailing workflow](http://sdsawtelle.github.io/blog/output/simple-markdown-resume-with-pandoc-and-wkhtmltopdf.html) are contained in a short blog post.
