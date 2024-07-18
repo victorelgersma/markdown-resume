@@ -1,7 +1,7 @@
 # Victor Elgersma
 
 **Junior Fullstack Developer with a background in Physics and Video Production**
-elgersmav@gmail.com | github.com/victorelgersma
+**elgersmav@gmail.com | github.com/victorelgersma**
 
 ## Education
 
