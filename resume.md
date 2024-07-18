@@ -1,6 +1,7 @@
 # Victor Elgersma
 
-**Junior Fullstack Developer with a background in Physics and Filmmaking**
+**Junior Fullstack Developer with a background in Physics and Video Production**
+elgersmav@gmail.com | github.com/victorelgersma
 
 ## Education
 
@@ -61,12 +62,10 @@ _July - August 2021_
 
 ## Video Awards
 
-**2019**
-
 ### [Behavioural Economics 101: Risk Aversion and Endowment Effect](https://www.youtube.com/watch?v=O3OZH1VJQiI&t=10s)
 
 - Won, along with 9 other videos, [the PsycShorts 2019 video contest](https://www.apa.org/news/apa/2019/psycshorts-contest-winners#:~:text=Entrants%20were%20asked%20to%20create,by%20the%20April%202019%20deadline.) hosted by American Psychological Association.
 
-#### [The Wave-Particle Duality of Matter](https://www.youtube.com/watch?v=flqSAQyCyPo&t=2s)
+### [The Wave-Particle Duality of Matter](https://www.youtube.com/watch?v=flqSAQyCyPo&t=2s)
 
 - Finalist in the [2018 edition of the Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/winners/2018)
