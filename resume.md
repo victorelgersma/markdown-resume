@@ -1,14 +1,19 @@
 # Victor Elgersma
 
-**Data enthusiast with a strong background in math, science and programming**
-***[ [victorelgersma.github.io](http://www.victorelgersma.github.io) ]. [ elgersmav@gmail.com ] . [ +447502338291 ] ***
+**Junior dev with a background in physics and filmmaking**
 
-Education
----------
+## Education
 
 ### Bachelor of Arts in Physics, University of Oxford
 
-_2022_
+_2018-2022_
+
+- Graduated with First Class Honours
+- 3rd year thesis: “Measuring the Mass and Lifetime of Charged B Mesons using Data from CDF II at Fermilab”
+
+### European School of Brussels, Brussels, Belgium
+
+_2011-2018_
 
 - First Class Honours
 - 3rd year thesis: “Measuring the Mass and Lifetime of Charged B Mesons using Data from CDF II at Fermilab”
@@ -19,9 +24,11 @@ _2022_
 
 _March 2024 - Present_
 
-- Joined the eCRM team as a full stack junior dev working on an in-house email marketing platform.
-- Backend: Java 11 + Springboot, MS SQL Server, GCP, Docker, Kubernetes
-- Frontend: NextJS
+- Full stack junior dev working on an in-house email marketing platform.
+- Tools:
+  - Backend: Java 11 + Springboot, MS SQL Server, GCP, Docker, Kubernetes
+  - Frontend: NextJS
+  - DevOps: Kubernetes, Jenkins
 
 ### Graduate Software Engineer - Accelerator, The Hut Group
 
