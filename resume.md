@@ -61,15 +61,12 @@ _July - August 2021_
 
 ## Video Awards
 
-### American Psychological Association (2019)
+**2019**
 
-- Winner, PsycShorts Video Contest
+### [Behavioural Economics 101: Risk Aversion and Endowment Effect](https://www.youtube.com/watch?v=O3OZH1VJQiI&t=10s)
 
-### Breakthrough Junior Challenge (2018)
+- Won, along with 9 other videos, [the PsycShorts 2019 video contest](https://www.apa.org/news/apa/2019/psycshorts-contest-winners#:~:text=Entrants%20were%20asked%20to%20create,by%20the%20April%202019%20deadline.) hosted by American Psychological Association.
 
-- Finalist
-- Created [a short explainer on quantum mechanics](https://www.khanacademy.org/college-careers-more/bjc/2018-challenge/2018-challenge-physics/v/the-wave-particle-duality-of-matter-breakthrough-junior-challenge).
+#### [The Wave-Particle Duality of Matter](https://www.youtube.com/watch?v=flqSAQyCyPo&t=2s)
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
+- Finalist in the [2018 edition of the Breakthrough Junior Challenge](https://breakthroughjuniorchallenge.org/winners/2018)

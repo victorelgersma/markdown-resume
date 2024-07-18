@@ -10,13 +10,23 @@ generate html with:
 ./generate_html.sh
 ```
 
-- use browser's print to PDF to generate a pdf
+or use the watch file to automatically regenerate the html file when the resume.md file is changed:
+
+```zsh
+./watch.sh
+```
+
+2. Generate pdf with pandoc:
+
+```zsh
+pandoc resume.md -o resume.pdf
+```
+
+## Notes
+
+- Can't use the browser to print the pdf because links don't render correctly.
 
 ## To do
-
-- [ ] create a file watcher that watches for changes in the resume.md file and regenerates the html file
-- [ ] currently the pdf
-- [ ] modify generator file to not use a separate stylesheet file
 
 ## Notes
 

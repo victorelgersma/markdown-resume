@@ -16,6 +16,11 @@ head -n "$BODY_LINE" template.html > resume.html
 # Append the generated HTML content
 echo "$GENERATED_HTML" >> resume.html
 
+# Add style sheet in style tags:
+echo "<style>" >> resume.html
+cat resume-css-stylesheet.css >> resume.html
+echo "</style>" >> resume.html
+
 # Close the body and html tags
 echo "</body>" >> resume.html
 echo "</html>" >> resume.html
