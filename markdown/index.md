@@ -35,7 +35,7 @@ _September 2023 - March 2024_
 _March 2024 - Present_
 
 - Working an internal software platform for bulk email marketing to THG's brands and external clients.
-- Main Technologies : NextJS 14, Java Springboot, GCP, Azure, MS SQL Server, Docker, Kubernetesg
+- Main Technologies : NextJS 14, Java Springboot, GCP, Azure, MS SQL Server, Docker, Kubernetes.
 
 ## Other Work Experience
 
