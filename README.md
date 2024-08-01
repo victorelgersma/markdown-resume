@@ -4,7 +4,7 @@
 
 1. Edit markdown/index.md
 
-generate html with:
+generate html with
 
 ```zsh
 ./generate_html.sh ../markdown/index.md
