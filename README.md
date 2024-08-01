@@ -2,19 +2,15 @@
 
 ## Workflow
 
-1. Edit resume.md to add / change content
+1. Edit markdown/index.md
 
 generate html with:
 
 ```zsh
-./generate_html.sh
+./generate_html.sh ../markdown/index.md
 ```
 
-or use the watch file to automatically regenerate the html file when the resume.md file is changed:
-
-```zsh
-./watch.sh
-```
+watch file is currently broken
 
 the index.html file is hosted at https://victorelgersma.github.io/cv/
 
