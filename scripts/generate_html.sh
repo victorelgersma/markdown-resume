@@ -7,13 +7,15 @@ if [ $# -eq 0 ]; then
 fi
 
 # Change directory to the parent directory
-cd ..
 
 MARKDOWN_FILE="$1"
 OUTPUT_FILE="index.html"
 
 # Convert markdown to HTML and store in a variable
 GENERATED_HTML=$(pandoc "$MARKDOWN_FILE")
+
+# Move up to the parent directory
+cd ..
 
 BODY_LINE=$(awk '/<body>/{print NR; exit}' html/template.html)
 
