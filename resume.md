@@ -1,5 +1,7 @@
 # Victor Elgersma
 
+**<u>elgersmav@gmail.com</u>**
+
 ## Education
 
 ### BA Physics, University of Oxford

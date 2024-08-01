@@ -18,7 +18,7 @@ echo "$GENERATED_HTML" >> "$OUTPUT_FILE"
 
 # Add style sheet in style tags:
 echo "<style>" >> "$OUTPUT_FILE"
-cat resume-css-stylesheet.css >> "$OUTPUT_FILE"
+cat css/style.css >> "$OUTPUT_FILE"
 echo "</style>" >> "$OUTPUT_FILE"
 
 # Close the body and html tags
