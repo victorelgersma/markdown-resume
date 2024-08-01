@@ -1,17 +1,6 @@
 # Victor Elgersma
 
-**Junior Fullstack Developer with a background in Physics and Video Production**
-**elgersmav@gmail.com | github.com/victorelgersma**
-
 ## Education
-
-### [THG Accelerator](https://www.thg.com/talent/thg-accelerator)
-
-_September 2023 - March 2024_
-
-- A six-month programme designed to transition non-computer science graduates into tech.
-- Covered fundamental computer science topics such as algorithms and data structures, software engineering skills such as OOP and unit testing, and gained familiarity with industry standard frameworks like Springboot, and React. Learned about querying relational databases with SQL, RESTful APIs, networking, docker and containerization, and a whole host of other topics.
-- Languages: Java, Python, JavaScript, HTML, CSS, SQL, Bash, and more.
 
 ### [Bachelor of Arts in Physics, University of Oxford](https://www.ox.ac.uk/admissions/undergraduate/courses/course-listing/physics)
 
@@ -28,7 +17,17 @@ _2011-2018_
 - Final grade 92/100
 - Received award for highest academic performance in the English Language section.
 
-## Work Experience
+## Professional Education
+
+### [THG Accelerator](https://www.thg.com/talent/thg-accelerator)
+
+_September 2023 - March 2024_
+
+- A six-month programme designed to transition non-computer science graduates into tech.
+- Covered fundamental computer science topics such as algorithms and data structures, software engineering skills such as OOP and unit testing, and gained familiarity with industry standard frameworks like Springboot, and React. Learned about querying relational databases with SQL, RESTful APIs, networking, docker and containerization, and a whole host of other topics.
+- Languages: Java, Python, JavaScript, HTML, CSS, SQL, Bash, and more.
+
+## Relevant Work Experience
 
 ### Graduate Software Engineer @ [The Hut Group](https://www.thg.com/)
 
@@ -38,7 +37,15 @@ _March 2024 - Present_
   - Frontend: NextJS
   - Backend: Java + Springboot, GCP, MS SQL Server, Docker, Kubernetes
 
-### Media Production Assistant @ [The Institute of Art and Ideas](https://iai.tv/home)
+### Research Assistant @ [National Institute for Space Research, São Paulo, Brazil](https://www.ni.gov.br/en/)
+
+_July - August 2021_
+
+- Used R and RStudio to structure, clean, and interpolate missing soil and weather data for use in a one-dimensional hydrological model, used in an eco-hydrological investigation attempting to model the root water uptake in the Amazon rainforest during a severe drought.
+
+## Other Work Experience
+
+### Media Production Assistant @ [The Institute of Art and Ideas](https://howthelightgetsin.org/festivals/previous-events/hay-2)
 
 _January 2022 - September 2023_
 
@@ -46,19 +53,19 @@ _January 2022 - September 2023_
 - Leveraged modern technology to reduce costs and increase audio quality using Descript and free AI voice isolation technology with Descript.
 - Wrote concise blurbs and speaker briefs to effectively capture and communicate the key ideas of renowned speakers across a range of topics in the arts, humanities, and sciences.
 
+### Senior Film Crew @ [HowTheLightGetsIn Festival](https://iai.tv/home) 2024
+
+May & September 2023
+
+- Managed a team of volunteers to film talks at the HowTheLightGetsIn Festival.
+
 ### English Teacher @ [Gotoco](https://www.go-to.co/)
 
 _July - August 2019_
 
-- Taught English to Chinese students aged 7-14, obtaining my TEFL qualification with.
+- Taught English to Chinese students aged 7-14, obtaining my TEFL qualification with Gotoco.
 
 ## Research
-
-### National Institute for Space Research, São Paulo, Brazil
-
-_July - August 2021_
-
-- Used R to structure, clean, and interpolate missing soil and weather data for use in a one-dimensional hydrological model, used in an eco-hydrological investigation attempting to model the root water uptake in the Amazon rainforest during a severe drought.
 
 ## Video Awards
 
