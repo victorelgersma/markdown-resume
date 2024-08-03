@@ -7,10 +7,15 @@
 generate html with
 
 ```zsh
+cd scripts
 ./generate_html.sh ../markdown/index.md
 ```
 
-watch file is currently broken
+edit any other file in markdown/
+
+convert it to html with
+
+./generate_html.sh ../markdown/<your file>
 
 the index.html file is hosted at https://victorelgersma.github.io/cv/
 
